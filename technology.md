@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our technology
+title: Our technology.
 permalink: /tech/
 ---
 
