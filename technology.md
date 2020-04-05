@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Main Title
-permalink: /main/
+title: Our technology
+permalink: /tech/
 ---
 
 Welcom to the future of the Delft-DAO
